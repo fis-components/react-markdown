@@ -10,5 +10,5 @@
         "commonmark-react-renderer": "^2.1.0",
         "react": ">=0.13.3"
     },
-    "version": "1.1.4"
+    "version": "1.2.0"
 }
